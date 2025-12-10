@@ -40,8 +40,8 @@ Each problem includes:
 | 12 | Percentage of Users Attended a Contest | [LeetCode Link](https://leetcode.com/problems/percentage-of-users-attended-a-contest/) | [![yt](https://img.icons8.com/?size=20&id=19318&format=png)](https://youtube.com/dummy) |
 | 13 | Queries Quality and Percentage | [LeetCode Link](https://leetcode.com/problems/queries-quality-and-percentage/) | [![yt](https://img.icons8.com/?size=20&id=19318&format=png)](https://youtube.com/dummy) |
 | 14 | Monthly Transactions I | [LeetCode Link](https://leetcode.com/problems/monthly-transactions-i/) | [![yt](https://img.icons8.com/?size=20&id=19318&format=png)](https://youtube.com/dummy) |
-| 15 | Immediate Food Delivery I | [LeetCode Link](https://leetcode.com/problems/immediate-food-delivery-i/) | [![yt](https://img.icons8.com/?
-size=20&id=19318&format=png)](https://youtube.com/dummy) |
+| 15 | Immediate Food Delivery I | [LeetCode Link](https://leetcode.com/problems/immediate-food-delivery-i/) | [![yt](https://img.icons8.com/?size=20&id=19318&format=png)](https://youtube.com/dummy) |
+
 
 ---
 ## 4. Sorting & Grouping
@@ -117,3 +117,4 @@ size=20&id=19318&format=png)](https://youtube.com/dummy) |
 | 48 | Second Degree Follower | [LeetCode Link](https://leetcode.com/problems/second-degree-follower/) | [![yt](https://img.icons8.com/?size=20&id=19318&format=png)](https://youtube.com/dummy) |
 | 49 | Confirmation Rate | [LeetCode Link](https://leetcode.com/problems/confirmation-rate/) | [![yt](https://img.icons8.com/?size=20&id=19318&format=png)](https://youtube.com/dummy) |
 | 50 | Average Selling Price | [LeetCode Link](https://leetcode.com/problems/average-selling-price/) | [![yt](https://img.icons8.com/?size=20&id=19318&format=png)](https://youtube.com/dummy) |
+
