@@ -20,7 +20,7 @@ Each problem includes:
 
 | No. | Problem | LeetCode | YouTube |
 |----|---------|----------|---------|
-| 1 | Recyclable and Low Fat Products | [![lc](https://img.icons8.com/?size=20&id=9&format=png)](https://leetcode.com/problems/recyclable-and-low-fat-products/) | [![yt](https://img.icons8.com/?size=20&id=19318&format=png)](https://youtube.com/dummy) |
+| 1 | Recyclable and Low Fat Products | [![lc]([https://img.icons8.com/?size=20&id=9&format=png](https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png))](https://leetcode.com/problems/recyclable-and-low-fat-products/) | [![yt](https://img.icons8.com/?size=20&id=19318&format=png)](https://youtube.com/dummy) |
 | 2 | Find Customer Referee | [![lc](https://img.icons8.com/?size=20&id=9&format=png)](https://leetcode.com/problems/find-customer-referee/) | [![yt](https://img.icons8.com/?size=20&id=19318&format=png)](https://youtube.com/dummy) |
 | 3 | Big Countries | [![lc](https://img.icons8.com/?size=20&id=9&format=png)](https://leetcode.com/problems/big-countries/) | [![yt](https://img.icons8.com/?size=20&id=19318&format=png)](https://youtube.com/dummy) |
 | 4 | Article Views I | [![lc](https://img.icons8.com/?size=20&id=9&format=png)](https://leetcode.com/problems/article-views-i/) | [![yt](https://img.icons8.com/?size=20&id=19318&format=png)](https://youtube.com/dummy) |
@@ -126,3 +126,4 @@ Each problem includes:
 | 48 | Second Degree Follower | [![lc](https://img.icons8.com/?size=20&id=9&format=png)](https://leetcode.com/problems/second-degree-follower/) | [![yt](https://img.icons8.com/?size=20&id=19318&format=png)](https://youtube.com/dummy) |
 | 49 | Confirmation Rate | [![lc](https://img.icons8.com/?size=20&id=9&format=png)](https://leetcode.com/problems/confirmation-rate/) | [![yt](https://img.icons8.com/?size=20&id=19318&format=png)](https://youtube.com/dummy) |
 | 50 | Average Selling Price | [![lc](https://img.icons8.com/?size=20&id=9&format=png)](https://leetcode.com/problems/average-selling-price/) | [![yt](https://img.icons8.com/?size=20&id=19318&format=png)](https://youtube.com/dummy) |
+
